@@ -8,7 +8,7 @@ Over the course of two or three articles, Tony explains how to install the new V
 This design attempts to cover both the installation and provide jumpers for the text mode settings.
 
 
-The main PCB (assuming I've interpreted the instructions correctly and failed to make any mistakes) should let you substitute the new MC6847T1/XC80652P VDG in place of the old MC6847. This project is likely of little interest to many, as I can't imagine it would be easy to find the chip. That being said, I have one and thought this would be fun project for #septandy this year, so here we are.
+The main PCB (assuming I've interpreted the instructions correctly and failed to make any mistakes) should let you substitute the new MC6847T1/XC80652P VDG in place of the old MC6847. This project is likely of little use to many, as I can't imagine it would be easy to find the chip. That being said, I have one and thought this would be fun project for #septandy this year.
 
 The main PCB has two fly out lines that have to go to the SAM chip. I plan to make another PCB to avoid soldering to the chip directly or using clip on leads that tend to fall off.
 
