@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name cocoloco)(type Legacy)(uri ${KIPRJMOD}/cocoloco.lib)(options "")(descr ""))
+)
