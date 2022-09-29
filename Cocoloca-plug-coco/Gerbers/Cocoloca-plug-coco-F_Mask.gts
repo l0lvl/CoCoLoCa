@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
-%TF.CreationDate,2022-09-27T04:31:38-04:00*%
-%TF.ProjectId,Cocoloca-plug-coco,436f636f-6c6f-4636-912d-706c75672d63,rev?*%
-%TF.SameCoordinates,Original*%
-%TF.FileFunction,Soldermask,Top*%
-%TF.FilePolarity,Negative*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*
+G04 #@! TF.CreationDate,2022-09-29T01:21:34-04:00*
+G04 #@! TF.ProjectId,Cocoloca-plug-coco,436f636f-6c6f-4636-912d-706c75672d63,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Soldermask,Top*
+G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2022-09-27 04:31:38*
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2022-09-29 01:21:34*
 %MOMM*%
 %LPD*%
 G01*
@@ -15,7 +15,6 @@ G04 APERTURE LIST*
 %ADD11R,2.400000X1.600000*%
 G04 APERTURE END LIST*
 D10*
-%TO.C,COCO1*%
 X136290000Y-78110000D03*
 X128670000Y-100970000D03*
 X136290000Y-80650000D03*
@@ -37,5 +36,4 @@ X128670000Y-80650000D03*
 X136290000Y-100970000D03*
 D11*
 X128670000Y-78110000D03*
-%TD*%
 M02*
